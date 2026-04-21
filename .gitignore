@@ -1,0 +1,15 @@
+# Môi trường ảo
+env/
+
+# Thư mục build của PyInstaller
+build/
+dist/
+*.spec
+
+# Thư mục rác của Python
+__pycache__/
+*.pyc
+
+.gitignore
+
+env.txt
