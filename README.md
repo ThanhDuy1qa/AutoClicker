@@ -7,7 +7,7 @@ Additionally, if you'd like to share your macro scripts to help others, feel fre
 Guilde to use this app
 
 Download the `Api Auto Clicker.exe` file directly from this link: 
-https://github.com/ThanhDuy1qa/AutoClicker/blob/main/Api%20Auto%20Clicker.exe
+[Download Api Auto Clicker.exe]https://github.com/ThanhDuy1qa/AutoClicker/blob/main/Api%20Auto%20Clicker.exe
 *(Note: Click the download button near the top right of the screen. GitHub might say "View raw" or that the file is too big to display, which is completely normal)
 
 ### I. Auto click 
